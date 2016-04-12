@@ -1,5 +1,5 @@
 # hello-world
-Testing the shitt out of GitHub
+Testing the shitt out of Git, on a hub!
 
 Hi, this is the one and only Mr ZiP writing!
 
